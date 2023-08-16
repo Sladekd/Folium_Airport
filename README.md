@@ -1,7 +1,7 @@
 # Folium_Airport
 Jupyter Notebook for creating Folium Map displaying events on aerodrome. This work is to be presented as part of the research at the ICMT 2023 conference. So if you make use of this work, feel free to cite:
 
-J. Vomela and D. Sládek, "Towards Automatic Processing of Georeferenced Information Within Airport Services," 2023 International Conference on Military Technologies (ICMT), Brno, Czech Republic, 2023, pp. 1-6, doi: 10.1109/ICMT58149.2023.10171328.
+*J. Vomela and D. Sládek, "Towards Automatic Processing of Georeferenced Information Within Airport Services," 2023 International Conference on Military Technologies (ICMT), Brno, Czech Republic, 2023, pp. 1-6, doi: 10.1109/ICMT58149.2023.10171328.*
 
 This notebook provides a basic procedure to create a map in the folium library, retrieve points from the pandas dataframe and display them. Random coordinates are generated around the area of interest for each point, in practice they would probably already be assigned.
 
